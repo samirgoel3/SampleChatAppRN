@@ -1,2 +1,2 @@
-# SampleChatAppRN
-Open Source Chat Applicationj
+# samplechatappRN
+ 
